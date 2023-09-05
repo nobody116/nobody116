@@ -1,6 +1,8 @@
 **Email**
 
-```echo "bm9ib2R5MTE2QHR1dGEuaW8NCg==" | base64 -d```
+```
+echo "bm9ib2R5MTE2QHR1dGEuaW8NCg==" | base64 -d
+```
 
 # <div align='center' ><font size='80'>醜人多作怪</font></div>
 
